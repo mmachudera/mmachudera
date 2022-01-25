@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmachudera
-- 👀 I’m interested in Business Intelligence.
-- 🌱 I’m currently learning Python, SQL, Power BI and Tableau.
+- 👀 I’m interested in Business Intelligence, I would like to work as data analyst or data scientist. 
+- 🌱 I’m currently learning step by step Python, SQL, Power BI and Tableau.
 
 
 <!---
